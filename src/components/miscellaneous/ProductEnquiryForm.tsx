@@ -170,10 +170,14 @@ export function ProductEnquiryForm() {
                     <SelectContent>
                       <SelectItem value="-Select-">-Select-</SelectItem>
                       <SelectItem value="New Delhi">New Delhi</SelectItem>
+                      <SelectItem value="Noida">Noida</SelectItem>
+                      <SelectItem value="Gurgoan">Gurgoan</SelectItem>
                       <SelectItem value="Ahmedabad">Ahmedabad</SelectItem>
                       <SelectItem value="Chennai">Chennai</SelectItem>
                       <SelectItem value="Kolkata">Kolkata</SelectItem>
                       <SelectItem value="Bangalore">Bangalore</SelectItem>
+                      <SelectItem value="Hyderabad">Hyderabad</SelectItem>
+                      <SelectItem value="Surat">Surat</SelectItem>
                     </SelectContent>
                   </Select>
                 </FormControl>
